@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Online Coding made simple</title>
+	<atom:link href="https://ahmed1107.github.io/aseopro/feed" rel="self" type="application/rss+xml" />
+	<link>https://ahmed1107.github.io/aseopro</link>
+	<description>Everything you need about online coding languages from HTML to Java</description>
+	<lastBuildDate>Sunday, 22 May 2022 21:47:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>Build Optimized Websites with HTMl and CSS</title>
+		<link>https://ahmed1107.github.io/aseopro/Coding/Build-Optimized-Websites-with-HTMl-and-CSS.html</link>
+		<pubDate>Sunday, 22 May 2022 21:47:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[Coding]]></category>
+		<guid isPermaLink="false">https://ahmed1107.github.io/aseopro/Coding/Build-Optimized-Websites-with-HTMl-and-CSS.html</guid> 
+		<description><![CDATA[Build Optimized Websites with HTMl and CSS
+by
+Leon
+Posted on 22-05-2022 09:47 PM
+In this article you will learn the basic ways to use HTML and CSS to design a static website that is optimized for Search Engine RankStatic means fixed html website that is not powered by any database
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
