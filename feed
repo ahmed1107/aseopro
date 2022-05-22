@@ -12,7 +12,7 @@
 	<atom:link href="https://ahmed1107.github.io/aseopro/feed" rel="self" type="application/rss+xml" />
 	<link>https://ahmed1107.github.io/aseopro</link>
 	<description>Everything you need about online coding languages from HTML to Java</description>
-	<lastBuildDate>Sunday, 22 May 2022 21:47:01 +0000</lastBuildDate>
+	<lastBuildDate>Sunday, 22 May 2022 21:56:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>	
@@ -20,6 +20,21 @@
 	
 	
 <!--feeditem-->
+<item>
+		<title>Beginners Guide on How to Code a Website</title>
+		<link>https://ahmed1107.github.io/aseopro/Coding/Beginners-Guide-on-How-to-Code-a-Website.html</link>
+		<pubDate>Sunday, 22 May 2022 21:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[Coding]]></category>
+		<guid isPermaLink="false">https://ahmed1107.github.io/aseopro/Coding/Beginners-Guide-on-How-to-Code-a-Website.html</guid> 
+		<description><![CDATA[Beginners Guide on How to Code a Website
+by
+Leon
+Posted on 22-05-2022 09:56 PM
+Web development is one of the fastest growing technology careers in the industryKnowing how to code a website opens up several job opportunities for a career in technology
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
 <item>
 		<title>Build Optimized Websites with HTMl and CSS</title>
 		<link>https://ahmed1107.github.io/aseopro/Coding/Build-Optimized-Websites-with-HTMl-and-CSS.html</link>
